@@ -3,9 +3,10 @@
    <img src="https://pronoun.cyou/x/y?subject=She&object=Her&height=20"> 
 </div>
 
-:sparkles: I'm women software engineer interested in <b>software quality</b>, <b>infrastructure</b> and <b>healthy team building</b>.
-
 <div align="center">
+:sparkles: I'm women software engineer interested in <b>software quality</b>, <b>infrastructure</b> and <b>healthy team building</b>.
+<br />
+<br />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=littlejuh&hide_progress=true&theme=calm)
 
