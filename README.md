@@ -27,4 +27,4 @@
 
 ----
 
-&nbsp;Follow my work:&nbsp; :point-down:
+&nbsp;Follow my work:&nbsp; :point_down:
