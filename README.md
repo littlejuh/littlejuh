@@ -3,7 +3,7 @@
    <img src="https://pronoun.cyou/x/y?subject=She&object=Her&height=20"> 
 </div>
 
-:sparkles: I'm software engineer women interested in <b>software quality</b>, <b>infrastructure</b> and <b>healthy team building</b>.
+:sparkles: I'm women software engineer interested in <b>software quality</b>, <b>infrastructure</b> and <b>healthy team building</b>.
 
 <div align="center">
 
