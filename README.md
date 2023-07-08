@@ -6,10 +6,11 @@
 
 :sparkles: I'm a woman software engineer from Brazil interested in software quality, infrastructure and healthy team building.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=littlejuh&hide_progress=true)
+<div align="center">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=littlejuh&hide_progress=true&theme=calm)
+</div>
 
-
-
+<br />
 <div align="center">
 <h3> 👩🏻‍💻 Full Stack Developer | 🛸 Porto Alegre, Brazil </h3>
 </div>
