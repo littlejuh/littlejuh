@@ -3,13 +3,13 @@
    <img src="https://pronoun.cyou/x/y?subject=She&object=Her&height=20"> 
 </div>
 
-
-:sparkles: I'm a woman software engineer from Brazil interested in software quality, infrastructure and healthy team building.
+:sparkles: I'm software engineer women interested in <b>software quality</b>, <b>infrastructure</b> and <b>healthy team building</b>.
 
 <div align="center">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=littlejuh&hide_progress=true&theme=calm)
-</div>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=littlejuh&hide_progress=true&theme=calm)
+
+</div>
 <br />
 <div align="center">
 <h3> 👩🏻‍💻 Full Stack Developer | 🛸 Porto Alegre, Brazil </h3>
