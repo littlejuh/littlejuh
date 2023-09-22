@@ -1,6 +1,5 @@
 <div align="center">
-   <h1>Hello 🌎, I'm Juliana </h1>
-   <img src="https://pronoun.cyou/x/y?subject=She&object=Her&height=20"> 
+   <h1>Hello 🌎, I'm Juliana </h1> 
 </div>
 
 <div align="center">
