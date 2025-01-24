@@ -15,10 +15,6 @@
 <h3> 👩🏻‍💻 Full Stack Developer | 🛸 Porto Alegre, Brazil </h3>
 </div>
 
- <h5 align="center">
-   <i>✨ Trust Me, I'm an Engineer! ✨</i>
-  </h5>
-
 <p align='center'>
    <a href="https://linkedin.com/in/littlejuh"><img height="30" src="https://simpleicons.now.sh/linkedin/495f7e"></a>&nbsp;&nbsp;
    <a href="https://twitter.com/littlejuh_"><img height="30" src="https://simpleicons.now.sh/twitter/495f7e"></a>&nbsp;&nbsp;
