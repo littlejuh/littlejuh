@@ -17,7 +17,6 @@
 
 <p align='center'>
    <a href="https://linkedin.com/in/littlejuh"><img height="30" src="https://simpleicons.now.sh/linkedin/495f7e"></a>&nbsp;&nbsp;
-   <a href="https://twitter.com/littlejuh_"><img height="30" src="https://simpleicons.now.sh/twitter/495f7e"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/littlejuh/"><img height="30" src="https://simpleicons.now.sh/instagram/495f7e"></a>&nbsp;&nbsp;
  </p>
 
